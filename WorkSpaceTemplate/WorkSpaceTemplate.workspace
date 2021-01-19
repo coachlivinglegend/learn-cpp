@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="WorkSpaceTemplate" Database="" Version="10000">
+  <Project Name="WorkSpaceTemplate" Path="WorkSpaceTemplate/WorkSpaceTemplate.project" Active="Yes"/>
+  <Project Name="WorkSpaceTemplate" Path="WorkSpaceTemplate/WorkSpaceTemplate.project" Active="Yes"/>
+  <Project Name="WorkSpaceTemplateTest" Path="WorkSpaceTemplateTest/WorkSpaceTemplateTest.project" Active="No"/>
+  <Project Name="WorkSpaceTemplateAfterReboot" Path="WorkSpaceTemplateAfterReboot/WorkSpaceTemplateAfterReboot.project" Active="No"/>
+  <Project Name="WorkSpaceTemplateMakeWeSee" Path="WorkSpaceTemplateMakeWeSee/WorkSpaceTemplateMakeWeSee.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="WorkSpaceTemplate" ConfigName="Debug"/>
+      <Project Name="WorkSpaceTemplate" ConfigName="Debug"/>
+      <Project Name="WorkSpaceTemplateTest" ConfigName="Debug"/>
+      <Project Name="WorkSpaceTemplateAfterReboot" ConfigName="Debug"/>
+      <Project Name="WorkSpaceTemplateMakeWeSee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="WorkSpaceTemplate" ConfigName="Release"/>
+      <Project Name="WorkSpaceTemplate" ConfigName="Release"/>
+      <Project Name="WorkSpaceTemplateTest" ConfigName="Release"/>
+      <Project Name="WorkSpaceTemplateAfterReboot" ConfigName="Release"/>
+      <Project Name="WorkSpaceTemplateMakeWeSee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

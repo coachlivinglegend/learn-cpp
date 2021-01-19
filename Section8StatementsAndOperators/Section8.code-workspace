@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "AssignmentOperator"
+		},
+		{
+			"path": "ArithmeticOperators"
+		},
+		{
+			"path": "Euros"
+		},
+		{
+			"path": "IncrementDecrementOperator"
+		},
+		{
+			"path": "MixedExpressions"
+		},
+		{
+			"path": "EqualityOperators"
+		},
+		{
+			"path": "RelationalOperators"
+		},
+		{
+			"path": "LogicalOperators"
+		},
+		{
+			"path": "Challenge"
+		}
+	]
+}
