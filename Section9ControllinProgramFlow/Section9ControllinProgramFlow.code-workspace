@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "IfStatement"
+		},
+		{
+			"path": "IfElseStatement"
+		},
+		{
+			"path": "Grades"
+		},
+		{
+			"path": "Shipping"
+		},
+		{
+			"path": "Switch"
+		},
+		{
+			"path": "SwitchEnum"
+		},
+		{
+			"path": "TernaryOperator"
+		},
+		{
+			"path": "ForLoop"
+		},
+		{
+			"path": "RangeBasedForLoop"
+		},
+		{
+			"path": "WhileLoop"
+		},
+		{
+			"path": "DoWhileLoop"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp"
+		}
+	}
+}
