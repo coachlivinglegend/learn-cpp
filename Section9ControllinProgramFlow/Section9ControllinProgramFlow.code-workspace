@@ -32,6 +32,15 @@
 		},
 		{
 			"path": "DoWhileLoop"
+		},
+		{
+			"path": "MultiplicationTable"
+		},
+		{
+			"path": "Histogram"
+		},
+		{
+			"path": "Challenge"
 		}
 	],
 	"settings": {
